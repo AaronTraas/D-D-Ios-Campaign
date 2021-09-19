@@ -46,4 +46,4 @@ pip install pyenchant
 python combo_puzzle_solution.py
 ```
 
-Unfortunately, the only dictionary word is "POTION"
+Unfortunately, out of the 6144 combinations, the only dictionary word is "POTION"

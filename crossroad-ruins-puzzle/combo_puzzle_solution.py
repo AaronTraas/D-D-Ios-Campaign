@@ -24,6 +24,7 @@ for word in words[:]:
 
 # dictionary lookup
 dictionary = enchant.Dict("en_US")
+print("Looking up {} words in dictionary".format(len(words)))
 for word in sorted(words):
     if (dictionary.check(word)):
         print("{} -> {}".format(word, dictionary.check(word)))
