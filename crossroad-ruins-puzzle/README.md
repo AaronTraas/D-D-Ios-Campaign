@@ -30,7 +30,7 @@ Lined up the boxes so it spelled
 
 | 1  | 2  | 3   |
 |----|----|-----|
-| PO | I  | ON |
+| PO | TI | ON |
 
 
 And pulled the central lever, and it triggered a draining spell on the party.
