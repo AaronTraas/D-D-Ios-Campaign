@@ -23,7 +23,7 @@ for word in words[:]:
     words.append(word[::-1])
 
 # dictionary lookup
-dictionary = enchant.Dict("en_US")
+dictionary = enchant.DictWithPWL("en_US", "custom_pwl.txt")
 print("Looking up {} words in dictionary".format(len(words)))
 for word in sorted(words):
     if (dictionary.check(word)):
