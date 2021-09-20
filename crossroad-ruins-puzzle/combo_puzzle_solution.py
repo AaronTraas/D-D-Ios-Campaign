@@ -22,7 +22,7 @@ for o1 in options_1:
 for word in words[:]:
     words.append(word[::-1])
 
-# dictionary lookup
+# dictionary lookup, including custom words
 dictionary = enchant.DictWithPWL("en_US", "custom_pwl.txt")
 print("Looking up {} words in dictionary".format(len(words)))
 for word in sorted(words):
