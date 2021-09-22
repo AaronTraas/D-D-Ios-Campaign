@@ -14,7 +14,7 @@ peredhil
 evona
 winnie
 underhill
-arnuf
+arnulf
 rose
 patrick
 torbin
@@ -31,3 +31,6 @@ vestyk
 redhawk
 beritia
 drachtenburg
+martinor
+quen
+laurel

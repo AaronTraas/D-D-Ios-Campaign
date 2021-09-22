@@ -1,6 +1,6 @@
 import enchant
 
-options_1 = ["AB", "FR", "XI", "VI", "PO", "EK", "QA", "RU"]
+options_1 = ["AB", "FR", "XI", "VI", "PO", "EX", "QA", "RU"]
 options_2 = ["TI", "DR", "A", "CA", "I", "RE", "NE", "O"]
 options_3 = ["US", "TON", "RY", "NLE", "RLE", "ZA", "PIN", "ON"]
 

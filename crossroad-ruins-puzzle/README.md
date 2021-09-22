@@ -20,7 +20,7 @@ Pulling a lever changes the letters. After 8 pulls, rotates back to the first. L
 | XI | A  | RY  |
 | VI | CA | NLE |
 | PO | I  | RLE |
-| EK | RE | ZA  |
+| EX | RE | ZA  |
 | QA | NE | PIN |
 | RU | O  | ON  |
 
@@ -35,7 +35,7 @@ Lined up the boxes so it spelled
 
 And pulled the central lever, and it triggered a draining spell on the party.
 
-So I did the only rational thing, made a python script to generate all possible combinations, their reverses, and also interspersed the coin letters, and checked for dictionary words.
+So I did the only rational thing, made a python script to generate all possible combinations, their reverses, and also interspersed the coin letters, and checked for dictionary words. Also checked for a custom list of names of people and places of the party and those we've encountered, and that's stored in `custom_pwl.txt`.
 
 This python script requires the [PyEnchant package](https://pypi.org/project/pyenchant/)
 
